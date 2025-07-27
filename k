@@ -7,6 +7,8 @@ cb1c02cfcc4b9abf:eber:kutas
 //kiwi
 91981f3:guwno:kupa123
 
+//buka
+75750e62:buka:buka
 
 //paczek
 be077963:paczek:plata
